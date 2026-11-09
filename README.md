@@ -1,6 +1,6 @@
 # Robust Low-Rank Matrix Recovery Under Sparse Corruptions
 
-This Pattern Recognition and Machine Learning project compares truncated singular value decomposition (SVD) with principal component pursuit (PCP) for recovering a low-rank matrix from sparse, high-magnitude errors. The study measures reconstruction accuracy, corruption detection, and optimization cost. A paired extension measures the effect of dense Gaussian noise.
+This experiment compares truncated singular value decomposition (SVD) with principal component pursuit (PCP) for recovering a low-rank matrix from sparse, high-magnitude errors. The study measures reconstruction accuracy, corruption detection, and optimization cost. A paired extension measures the effect of dense Gaussian noise.
 
 ## Reproduce the study
 
