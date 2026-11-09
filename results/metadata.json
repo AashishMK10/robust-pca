@@ -1,0 +1,32 @@
+{
+  "size": 100,
+  "rank": 5,
+  "seed": 43,
+  "trials": 5,
+  "densities": [
+    0.0,
+    0.02,
+    0.05,
+    0.1,
+    0.2
+  ],
+  "noise_levels": [
+    0.0,
+    0.1,
+    0.5
+  ],
+  "noise_density": 0.1,
+  "corruption_magnitude": 10.0,
+  "support_threshold": 1.0,
+  "pcp_regularization": 0.1,
+  "pcp_penalty_scale": 0.3,
+  "pcp_tolerance": 1e-07,
+  "pcp_max_iterations": 5000,
+  "python": "3.14.4",
+  "numpy": "2.4.4",
+  "scipy": "1.17.1",
+  "matplotlib": "3.10.8",
+  "system": "Windows 11",
+  "processor": "Intel(R) Core(TM) Ultra 9 275HX",
+  "blas_threads_requested": 1
+}

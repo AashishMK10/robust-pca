@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.mpl-cache/
+report/.build/
+slides/.build/
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.fls
+report/*.fdb_latexmk
+report/*.log
+report/*.out
+report/*.synctex.gz
